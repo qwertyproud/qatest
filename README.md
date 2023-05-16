@@ -1,2 +1,0 @@
-# qatest
-hw17
